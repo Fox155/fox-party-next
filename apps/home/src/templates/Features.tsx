@@ -14,7 +14,7 @@ export const Features = () => {
         title={t("section_title")}
         description={t("section_description")}
       >
-        <GForm src="https://docs.google.com/forms/d/e/1NsEZsZhMvCW9nJgW4wgRDV_pdJ5v5QUPaIjOuNDsUf8/viewform" />
+        <GForm src="https://docs.google.com/forms/d/e/1FAIpQLSeJr5ehTVDq1T9sXms0lWw_Co3_Off-j2bE1Tt6Fkb1XlbnvA/viewform" />
       </Section>
     </Background>
   );

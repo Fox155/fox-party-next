@@ -21,7 +21,7 @@ export const Section = (props: {
         )}
 
         {props.description && (
-          <div className="mt-2 text-lg text-muted-foreground text-gray-200">
+          <div className="mt-2 text-lg text-muted-foreground text-white">
             {props.description}
           </div>
         )}
